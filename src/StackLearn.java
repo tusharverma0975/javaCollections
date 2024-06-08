@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Stack;
 
 public class StackLearn {
@@ -11,6 +12,7 @@ public class StackLearn {
         {
             System.out.println("Values are "+ values);
             System.out.println(tushar.peek());
+//            System.out.println(tushar.pop());
         }
     }
 }
